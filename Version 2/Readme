@@ -1,0 +1,1 @@
+change server name , username,password in connnect.php and run trains.sql after creating a database named trains to total database. 
